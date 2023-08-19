@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.container {
+    min-height: 325px;
+    font-size: 1.8rem;
+}
+
+table {
+    margin: 40px auto;
+    width: 90%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid #000;
+}
+
+th, td {
+	padding: 16px;
+	text-align: left;
+}
+
+td {
+    color: #000;
+}
