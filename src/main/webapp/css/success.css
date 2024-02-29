@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.jumbotron {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0 !important;
+}

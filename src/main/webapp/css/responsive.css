@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+@media only screen and (min-width: 768px) and (max-width: 1156px) {
+	.header__logo {
+		flex: 1;
+	}
+	
+	.header__search-bar {
+		flex: 2;	
+	}
+	
+	.header__adv {
+		flex: 1.4;
+	}
+	
+	.header__search-input {
+		width: 370px;
+	}
+	
+	.content__menu {
+	    min-height: 1666px;
+	    padding: 10px;
+	}
+}
